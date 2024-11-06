@@ -1,0 +1,1 @@
+This was my final assignment for my machine learning class where I made a CART decision tree from scratch to see its inner workings and logic. The code is very well structured and explains everything through comments so that anyone can read it.
